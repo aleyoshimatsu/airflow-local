@@ -1,0 +1,24 @@
+[2023-03-12T22:42:25.594+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: validacao_pu.task_print_operacao_dfg scheduled__2023-03-10T00:00:00+00:00 [queued]>
+[2023-03-12T22:42:25.667+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: validacao_pu.task_print_operacao_dfg scheduled__2023-03-10T00:00:00+00:00 [queued]>
+[2023-03-12T22:42:25.667+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-12T22:42:25.669+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 6
+[2023-03-12T22:42:25.669+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-12T22:42:25.747+0000] {taskinstance.py:1300} INFO - Executing <Task(_PythonDecoratedOperator): task_print_operacao_dfg> on 2023-03-10 00:00:00+00:00
+[2023-03-12T22:42:25.753+0000] {standard_task_runner.py:55} INFO - Started process 1409 to run task
+[2023-03-12T22:42:25.784+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'validacao_pu', 'task_print_operacao_dfg', 'scheduled__2023-03-10T00:00:00+00:00', '--job-id', '73', '--raw', '--subdir', 'DAGS_FOLDER/examples/validacao_pu.py', '--cfg-path', '/tmp/tmpolfsy0dz']
+[2023-03-12T22:42:25.802+0000] {standard_task_runner.py:83} INFO - Job 73: Subtask task_print_operacao_dfg
+[2023-03-12T22:42:25.993+0000] {task_command.py:388} INFO - Running <TaskInstance: validacao_pu.task_print_operacao_dfg scheduled__2023-03-10T00:00:00+00:00 [running]> on host 40565fc59ef6
+[2023-03-12T22:42:26.338+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=alexandre.yoshimatsu
+AIRFLOW_CTX_DAG_ID=validacao_pu
+AIRFLOW_CTX_TASK_ID=task_print_operacao_dfg
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-10T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-10T00:00:00+00:00
+[2023-03-12T22:42:26.339+0000] {logging_mixin.py:137} INFO - Operação: dfg
+[2023-03-12T22:42:26.339+0000] {python.py:177} INFO - Done. Returned value was: None
+[2023-03-12T22:42:26.387+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=validacao_pu, task_id=task_print_operacao_dfg, execution_date=20230310T000000, start_date=20230312T224225, end_date=20230312T224226
+[2023-03-12T22:42:26.482+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2023-03-12T22:42:26.827+0000] {taskinstance.py:2578} INFO - 2 downstream tasks scheduled from follow-on schedule check

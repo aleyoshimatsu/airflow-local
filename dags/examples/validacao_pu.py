@@ -1,9 +1,15 @@
 from datetime import datetime, timedelta
+import os
+from requests import get
 
 from airflow import DAG
 from airflow.decorators import task
 from airflow.operators.python import PythonOperator
 
+from airflow.hooks.base_hook import BaseHook
+from airflow.hooks.http_hook import HttpHook
+from airflow.models import Variable
+from airflow.utils.email import send_email
 
 default_args = {
     'owner': 'alexandre.yoshimatsu',
@@ -24,8 +30,17 @@ with DAG(
     operacoes_dia = ['xyz', 'abc', 'dfg', 'hij', 'opq']
     
     @task(task_id="task_get_operacoes_dia")
-    def get_operacoes_dia():
+    def get_operacoes_dia(**kwargs):
+        
+        # Obtendo Conexao
+        #conn = BaseHook.get_connection("connzzzz")
+        
+        # Obtendo Variavel
+        #var = Variable.get("varrrrr")
+        
         operacoes_dia.append('def')
+        
+        kwargs["ti"].xcom_push(key="operacoes_dia", value=operacoes_dia)
     
     operacoes_dia_task = get_operacoes_dia()
     
@@ -60,4 +75,4 @@ with DAG(
         enviar_email_task = enviar_email(operacao)
         
         
-        operacoes_dia_task >> print_operacao_task >> calcular_pu_virgo_task >> calcular_pu_externo_task >> enviar_email_task
+        operacoes_dia_task >> print_operacao_task >> [calcular_pu_virgo_task, calcular_pu_externo_task] >> enviar_email_task

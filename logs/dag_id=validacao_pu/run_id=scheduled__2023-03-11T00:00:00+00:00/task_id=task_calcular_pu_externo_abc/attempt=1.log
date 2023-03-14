@@ -1,0 +1,24 @@
+[2023-03-12T22:42:50.875+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: validacao_pu.task_calcular_pu_externo_abc scheduled__2023-03-11T00:00:00+00:00 [queued]>
+[2023-03-12T22:42:50.911+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: validacao_pu.task_calcular_pu_externo_abc scheduled__2023-03-11T00:00:00+00:00 [queued]>
+[2023-03-12T22:42:50.912+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-12T22:42:50.913+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 6
+[2023-03-12T22:42:50.914+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-12T22:42:50.999+0000] {taskinstance.py:1300} INFO - Executing <Task(_PythonDecoratedOperator): task_calcular_pu_externo_abc> on 2023-03-11 00:00:00+00:00
+[2023-03-12T22:42:51.007+0000] {standard_task_runner.py:55} INFO - Started process 1644 to run task
+[2023-03-12T22:42:51.084+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'validacao_pu', 'task_calcular_pu_externo_abc', 'scheduled__2023-03-11T00:00:00+00:00', '--job-id', '175', '--raw', '--subdir', 'DAGS_FOLDER/examples/validacao_pu.py', '--cfg-path', '/tmp/tmpyy_s705f']
+[2023-03-12T22:42:51.085+0000] {standard_task_runner.py:83} INFO - Job 175: Subtask task_calcular_pu_externo_abc
+[2023-03-12T22:42:51.402+0000] {task_command.py:388} INFO - Running <TaskInstance: validacao_pu.task_calcular_pu_externo_abc scheduled__2023-03-11T00:00:00+00:00 [running]> on host 40565fc59ef6
+[2023-03-12T22:42:51.982+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=alexandre.yoshimatsu
+AIRFLOW_CTX_DAG_ID=validacao_pu
+AIRFLOW_CTX_TASK_ID=task_calcular_pu_externo_abc
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-11T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-11T00:00:00+00:00
+[2023-03-12T22:42:51.984+0000] {logging_mixin.py:137} INFO - Operação: abc
+[2023-03-12T22:42:51.984+0000] {python.py:177} INFO - Done. Returned value was: None
+[2023-03-12T22:42:52.046+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=validacao_pu, task_id=task_calcular_pu_externo_abc, execution_date=20230311T000000, start_date=20230312T224250, end_date=20230312T224252
+[2023-03-12T22:42:52.414+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2023-03-12T22:42:52.791+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

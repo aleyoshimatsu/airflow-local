@@ -1,0 +1,1204 @@
+[2023-03-12T11:26:58.132+0000] {processor.py:153} INFO - Started process (PID=39) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:26:58.133+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:26:58.133+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:26:58.133+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:26:58.168+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:26:58.302+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:26:58.302+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:validacao_pu
+[2023-03-12T11:26:58.312+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:26:58.312+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:validacao_pu
+[2023-03-12T11:26:58.320+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:26:58.320+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:validacao_pu
+[2023-03-12T11:26:58.320+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:26:58.320+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:26:58.332+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:26:58.332+0000] {dag.py:2711} INFO - Creating ORM DAG for validacao_pu
+[2023-03-12T11:26:58.349+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:26:58.349+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:26:58.371+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.242 seconds
+[2023-03-12T11:27:28.545+0000] {processor.py:153} INFO - Started process (PID=130) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:27:28.546+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:27:28.547+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:27:28.547+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:27:28.577+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:27:28.598+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:27:28.598+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:27:28.619+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:27:28.619+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:27:28.636+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.093 seconds
+[2023-03-12T11:27:58.984+0000] {processor.py:153} INFO - Started process (PID=205) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:27:58.986+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:27:58.986+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:27:58.986+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:27:59.008+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:27:59.031+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:27:59.031+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:27:59.050+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:27:59.050+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:27:59.068+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.087 seconds
+[2023-03-12T11:28:29.328+0000] {processor.py:153} INFO - Started process (PID=296) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:28:29.329+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:28:29.330+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:28:29.330+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:28:29.352+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:28:29.375+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:28:29.375+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:28:29.396+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:28:29.396+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:28:29.415+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T11:28:59.623+0000] {processor.py:153} INFO - Started process (PID=371) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:28:59.624+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:28:59.625+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:28:59.625+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:28:59.648+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:28:59.669+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:28:59.669+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:28:59.689+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:28:59.689+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:28:59.709+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T11:29:30.605+0000] {processor.py:153} INFO - Started process (PID=462) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:29:30.607+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:29:30.607+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:29:30.607+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:29:30.630+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:29:30.652+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:29:30.652+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:29:30.674+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:29:30.674+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:29:30.694+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.091 seconds
+[2023-03-12T11:30:01.040+0000] {processor.py:153} INFO - Started process (PID=537) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:30:01.041+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:30:01.042+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:30:01.042+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:30:01.065+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:30:01.090+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:30:01.090+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:30:01.111+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:30:01.111+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:30:01.130+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.092 seconds
+[2023-03-12T11:30:31.643+0000] {processor.py:153} INFO - Started process (PID=628) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:30:31.644+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:30:31.645+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:30:31.645+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:30:31.669+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:30:31.693+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:30:31.693+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:30:31.713+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:30:31.713+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:30:31.733+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.093 seconds
+[2023-03-12T11:31:01.893+0000] {processor.py:153} INFO - Started process (PID=703) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:31:01.894+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:31:01.895+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:31:01.895+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:31:01.919+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:31:01.941+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:31:01.941+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:31:01.961+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:31:01.961+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:31:01.979+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T11:31:32.365+0000] {processor.py:153} INFO - Started process (PID=794) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:31:32.368+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:31:32.368+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:31:32.368+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:31:32.394+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:31:32.417+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:31:32.417+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:31:32.437+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:31:32.437+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:31:32.454+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.092 seconds
+[2023-03-12T11:32:02.719+0000] {processor.py:153} INFO - Started process (PID=869) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:32:02.720+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:32:02.720+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:32:02.720+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:32:02.743+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:32:02.764+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:32:02.764+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:32:02.784+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:32:02.784+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:32:02.802+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.085 seconds
+[2023-03-12T11:32:33.124+0000] {processor.py:153} INFO - Started process (PID=960) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:32:33.126+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:32:33.127+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:32:33.127+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:32:33.152+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:32:33.176+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:32:33.176+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:32:33.202+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:32:33.202+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:32:33.222+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.100 seconds
+[2023-03-12T11:33:03.656+0000] {processor.py:153} INFO - Started process (PID=1035) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:33:03.657+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:33:03.658+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:33:03.658+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:33:03.685+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:33:03.707+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:33:03.707+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:33:03.728+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:33:03.728+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:33:03.748+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.095 seconds
+[2023-03-12T11:33:34.178+0000] {processor.py:153} INFO - Started process (PID=1126) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:33:34.180+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:33:34.180+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:33:34.180+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:33:34.206+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:33:34.230+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:33:34.230+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:33:34.255+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:33:34.255+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:33:34.271+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.096 seconds
+[2023-03-12T11:34:04.759+0000] {processor.py:153} INFO - Started process (PID=1208) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:34:04.760+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:34:04.761+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:34:04.761+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:34:04.799+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:34:04.829+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:34:04.828+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:34:04.861+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:34:04.860+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:34:04.886+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.130 seconds
+[2023-03-12T11:34:35.175+0000] {processor.py:153} INFO - Started process (PID=1292) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:34:35.176+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:34:35.177+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:34:35.177+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:34:35.199+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:34:35.221+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:34:35.221+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:34:35.241+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:34:35.241+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:34:35.256+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.083 seconds
+[2023-03-12T11:35:05.557+0000] {processor.py:153} INFO - Started process (PID=1377) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:35:05.559+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:35:05.559+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:35:05.559+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:35:05.597+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:35:05.619+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:35:05.619+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:35:05.641+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:35:05.641+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:35:05.666+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.111 seconds
+[2023-03-12T11:35:35.831+0000] {processor.py:153} INFO - Started process (PID=1459) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:35:35.831+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:35:35.832+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:35:35.832+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:35:35.855+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:35:35.878+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:35:35.878+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:35:35.899+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:35:35.899+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:35:35.920+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.091 seconds
+[2023-03-12T11:36:06.790+0000] {processor.py:153} INFO - Started process (PID=1541) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:36:06.800+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:36:06.801+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:36:06.801+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:36:06.965+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:36:07.046+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:36:07.046+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:36:07.160+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:36:07.159+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:36:07.252+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.476 seconds
+[2023-03-12T11:36:37.981+0000] {processor.py:153} INFO - Started process (PID=1625) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:36:37.984+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:36:37.985+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:36:37.985+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:36:38.014+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:36:38.037+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:36:38.037+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:36:38.057+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:36:38.057+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:36:38.078+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.103 seconds
+[2023-03-12T11:37:08.431+0000] {processor.py:153} INFO - Started process (PID=1700) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:37:08.434+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:37:08.434+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:37:08.434+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:37:08.464+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:37:08.488+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:37:08.488+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:37:08.515+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:37:08.515+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:37:08.538+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.110 seconds
+[2023-03-12T11:37:39.011+0000] {processor.py:153} INFO - Started process (PID=1792) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:37:39.014+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:37:39.015+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:37:39.015+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:37:39.060+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:37:39.084+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:37:39.084+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:37:39.113+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:37:39.112+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:37:39.136+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.127 seconds
+[2023-03-12T11:38:09.558+0000] {processor.py:153} INFO - Started process (PID=1867) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:38:09.559+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:38:09.560+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:38:09.560+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:38:09.583+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:38:09.605+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:38:09.605+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:38:09.625+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:38:09.625+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:38:09.650+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.095 seconds
+[2023-03-12T11:38:39.949+0000] {processor.py:153} INFO - Started process (PID=1958) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:38:39.951+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:38:39.952+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:38:39.952+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:38:39.975+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:38:39.996+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:38:39.996+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:38:40.016+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:38:40.016+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:38:40.035+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T11:39:10.438+0000] {processor.py:153} INFO - Started process (PID=2034) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:39:10.441+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:39:10.441+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:39:10.441+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:39:10.465+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:39:10.491+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:39:10.491+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:39:10.511+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:39:10.511+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:39:10.531+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.097 seconds
+[2023-03-12T11:39:40.846+0000] {processor.py:153} INFO - Started process (PID=2127) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:39:40.847+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:39:40.847+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:39:40.847+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:39:40.876+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:39:40.905+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:39:40.905+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:39:40.933+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:39:40.933+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:39:40.952+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.108 seconds
+[2023-03-12T11:40:11.271+0000] {processor.py:153} INFO - Started process (PID=2202) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:40:11.275+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:40:11.276+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:40:11.276+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:40:11.312+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:40:11.336+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:40:11.335+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:40:11.360+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:40:11.359+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:40:11.379+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.118 seconds
+[2023-03-12T11:40:39.906+0000] {processor.py:153} INFO - Started process (PID=2292) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:40:39.909+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:40:39.910+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:40:39.910+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:40:39.932+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:40:39.984+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:40:39.984+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:40:40.006+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:40:40.006+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:40:40.029+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.126 seconds
+[2023-03-12T11:41:10.323+0000] {processor.py:153} INFO - Started process (PID=2367) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:41:10.326+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:41:10.327+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:41:10.327+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:41:10.350+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:41:10.373+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:41:10.373+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:41:10.393+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:41:10.393+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:41:10.411+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T11:41:40.811+0000] {processor.py:153} INFO - Started process (PID=2458) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:41:40.814+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:41:40.815+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:41:40.814+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:41:40.839+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:41:40.861+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:41:40.861+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:41:40.882+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:41:40.881+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:41:40.902+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.094 seconds
+[2023-03-12T11:41:52.022+0000] {processor.py:153} INFO - Started process (PID=2517) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:41:52.024+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:41:52.024+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:41:52.024+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:41:52.047+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:41:52.096+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:41:52.096+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:41:52.117+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:41:52.117+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:41:52.139+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.119 seconds
+[2023-03-12T11:42:16.088+0000] {processor.py:153} INFO - Started process (PID=2562) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:42:16.091+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:42:16.091+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:42:16.091+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:42:16.114+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:42:16.125+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:42:16.125+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:42:16.146+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:42:16.145+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:42:16.165+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.080 seconds
+[2023-03-12T11:42:25.830+0000] {processor.py:153} INFO - Started process (PID=2593) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:42:25.833+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:42:25.833+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:42:25.833+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:42:25.860+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:42:25.916+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:42:25.916+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:42:25.941+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:42:25.941+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:42:25.976+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.149 seconds
+[2023-03-12T11:42:56.041+0000] {processor.py:153} INFO - Started process (PID=2684) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:42:56.044+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:42:56.044+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:42:56.044+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:42:56.067+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:42:56.089+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:42:56.088+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:42:56.107+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:42:56.107+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:42:56.127+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T11:43:26.729+0000] {processor.py:153} INFO - Started process (PID=2759) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:43:26.731+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:43:26.732+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:43:26.732+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:43:26.755+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:43:26.777+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:43:26.777+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:43:26.798+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:43:26.797+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:43:26.817+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T11:43:57.102+0000] {processor.py:153} INFO - Started process (PID=2851) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:43:57.105+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:43:57.105+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:43:57.105+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:43:57.128+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:43:57.150+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:43:57.150+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:43:57.170+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:43:57.170+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:43:57.189+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T11:44:27.455+0000] {processor.py:153} INFO - Started process (PID=2936) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:44:27.458+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:44:27.459+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:44:27.459+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:44:27.486+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:44:27.509+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:44:27.509+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:44:27.531+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:44:27.531+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:44:27.552+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.099 seconds
+[2023-03-12T11:44:57.726+0000] {processor.py:153} INFO - Started process (PID=3018) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:44:57.728+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:44:57.729+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:44:57.729+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:44:57.753+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:44:57.775+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:44:57.775+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:44:57.795+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:44:57.795+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:44:57.816+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.092 seconds
+[2023-03-12T11:45:28.096+0000] {processor.py:153} INFO - Started process (PID=3109) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:45:28.111+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:45:28.112+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:45:28.112+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:45:28.165+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:45:28.216+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:45:28.216+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:45:28.246+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:45:28.246+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:45:28.266+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.173 seconds
+[2023-03-12T11:45:58.283+0000] {processor.py:153} INFO - Started process (PID=3185) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:45:58.286+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:45:58.287+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:45:58.287+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:45:58.309+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:45:58.330+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:45:58.330+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:45:58.350+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:45:58.350+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:45:58.369+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T11:46:28.419+0000] {processor.py:153} INFO - Started process (PID=3276) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:46:28.421+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:46:28.422+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:46:28.422+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:46:28.452+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:46:28.476+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:46:28.476+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:46:28.500+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:46:28.499+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:46:28.522+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.106 seconds
+[2023-03-12T11:46:58.855+0000] {processor.py:153} INFO - Started process (PID=3351) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:46:58.859+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:46:58.859+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:46:58.859+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:46:58.880+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:46:58.902+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:46:58.902+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:46:58.925+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:46:58.925+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:46:58.944+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.091 seconds
+[2023-03-12T11:47:29.954+0000] {processor.py:153} INFO - Started process (PID=3444) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:47:29.957+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:47:29.958+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:47:29.958+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:47:29.979+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:47:30.001+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:47:30.001+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:47:30.020+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:47:30.020+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:47:30.041+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T11:48:00.451+0000] {processor.py:153} INFO - Started process (PID=3519) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:48:00.454+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:48:00.455+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:48:00.455+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:48:00.476+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:48:00.498+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:48:00.497+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:48:00.517+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:48:00.517+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:48:00.538+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T11:48:30.701+0000] {processor.py:153} INFO - Started process (PID=3610) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:48:30.702+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:48:30.703+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:48:30.703+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:48:30.730+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:48:30.761+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:48:30.761+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:48:30.787+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:48:30.786+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:48:30.809+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.110 seconds
+[2023-03-12T11:49:01.134+0000] {processor.py:153} INFO - Started process (PID=3686) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:49:01.137+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:49:01.137+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:49:01.137+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:49:01.162+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:49:01.212+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:49:01.212+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:49:01.234+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:49:01.234+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:49:01.250+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.119 seconds
+[2023-03-12T11:49:31.436+0000] {processor.py:153} INFO - Started process (PID=3777) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:49:31.438+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:49:31.439+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:49:31.439+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:49:31.461+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:49:31.484+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:49:31.483+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:49:31.502+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:49:31.502+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:49:31.523+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T11:50:01.919+0000] {processor.py:153} INFO - Started process (PID=3853) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:50:01.922+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:50:01.923+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:50:01.923+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:50:01.945+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:50:01.966+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:50:01.965+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:50:01.984+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:50:01.984+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:50:02.005+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T11:50:32.144+0000] {processor.py:153} INFO - Started process (PID=3944) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:50:32.147+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:50:32.148+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:50:32.148+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:50:32.170+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:50:32.192+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:50:32.192+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:50:32.211+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:50:32.211+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:50:32.230+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T11:51:02.602+0000] {processor.py:153} INFO - Started process (PID=4019) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:51:02.603+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:51:02.604+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:51:02.604+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:51:02.626+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:51:02.648+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:51:02.648+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:51:02.669+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:51:02.669+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:51:02.688+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T11:51:32.924+0000] {processor.py:153} INFO - Started process (PID=4110) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:51:32.927+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:51:32.928+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:51:32.928+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:51:32.952+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:51:32.978+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:51:32.977+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:51:32.998+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:51:32.998+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:51:33.017+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.095 seconds
+[2023-03-12T11:52:03.352+0000] {processor.py:153} INFO - Started process (PID=4185) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:52:03.353+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:52:03.354+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:52:03.353+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:52:03.376+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:52:03.397+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:52:03.397+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:52:03.416+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:52:03.415+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:52:03.438+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T11:52:33.797+0000] {processor.py:153} INFO - Started process (PID=4276) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:52:33.798+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:52:33.799+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:52:33.799+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:52:33.825+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:52:33.871+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:52:33.871+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:52:33.894+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:52:33.894+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:52:33.911+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.116 seconds
+[2023-03-12T11:53:04.216+0000] {processor.py:153} INFO - Started process (PID=4351) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:53:04.219+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:53:04.219+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:53:04.219+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:53:04.247+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:53:04.268+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:53:04.268+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:53:04.287+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:53:04.287+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:53:04.305+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.091 seconds
+[2023-03-12T11:53:34.572+0000] {processor.py:153} INFO - Started process (PID=4442) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:53:34.572+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:53:34.573+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:53:34.573+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:53:34.599+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:53:34.621+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:53:34.621+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:53:34.641+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:53:34.640+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:53:34.659+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T11:54:05.313+0000] {processor.py:153} INFO - Started process (PID=4516) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:54:05.314+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:54:05.315+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:54:05.315+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:54:05.337+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:54:05.359+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:54:05.359+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:54:05.379+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:54:05.379+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:54:05.401+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T11:54:35.670+0000] {processor.py:153} INFO - Started process (PID=4609) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:54:35.671+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:54:35.671+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:54:35.671+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:54:35.694+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:54:35.717+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:54:35.717+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:54:35.740+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:54:35.739+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:54:35.761+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.094 seconds
+[2023-03-12T11:55:06.363+0000] {processor.py:153} INFO - Started process (PID=4691) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:55:06.366+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:55:06.366+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:55:06.366+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:55:06.393+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:55:06.418+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:55:06.418+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:55:06.444+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:55:06.443+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:55:06.470+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.112 seconds
+[2023-03-12T11:55:37.030+0000] {processor.py:153} INFO - Started process (PID=4775) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:55:37.033+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:55:37.034+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:55:37.034+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:55:37.057+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:55:37.082+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:55:37.082+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:55:37.104+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:55:37.104+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:55:37.123+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.096 seconds
+[2023-03-12T11:56:07.653+0000] {processor.py:153} INFO - Started process (PID=4860) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:56:07.656+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:56:07.657+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:56:07.656+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:56:07.684+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:56:07.712+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:56:07.711+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:56:07.749+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:56:07.748+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:56:07.791+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.140 seconds
+[2023-03-12T11:56:38.206+0000] {processor.py:153} INFO - Started process (PID=4942) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:56:38.210+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:56:38.210+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:56:38.210+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:56:38.234+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:56:38.258+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:56:38.258+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:56:38.279+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:56:38.279+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:56:38.302+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.098 seconds
+[2023-03-12T11:57:08.879+0000] {processor.py:153} INFO - Started process (PID=5033) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:57:08.882+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:57:08.883+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:57:08.883+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:57:08.909+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:57:08.936+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:57:08.936+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:57:08.960+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:57:08.959+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:57:08.983+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.106 seconds
+[2023-03-12T11:57:39.382+0000] {processor.py:153} INFO - Started process (PID=5108) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:57:39.386+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:57:39.386+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:57:39.386+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:57:39.411+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:57:39.434+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:57:39.434+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:57:39.455+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:57:39.455+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:57:39.479+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.100 seconds
+[2023-03-12T11:58:10.053+0000] {processor.py:153} INFO - Started process (PID=5200) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:58:10.055+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:58:10.055+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:58:10.055+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:58:10.080+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:58:10.102+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:58:10.102+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:58:10.127+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:58:10.127+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:58:10.147+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.097 seconds
+[2023-03-12T11:58:40.599+0000] {processor.py:153} INFO - Started process (PID=5275) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:58:40.602+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:58:40.603+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:58:40.603+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:58:40.628+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:58:40.651+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:58:40.651+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:58:40.672+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:58:40.672+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:58:40.694+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.097 seconds
+[2023-03-12T11:59:11.127+0000] {processor.py:153} INFO - Started process (PID=5366) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:59:11.129+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:59:11.130+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:59:11.130+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:59:11.161+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:59:11.185+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:59:11.185+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:59:11.208+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:59:11.208+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:59:11.230+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.106 seconds
+[2023-03-12T11:59:41.635+0000] {processor.py:153} INFO - Started process (PID=5441) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:59:41.637+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T11:59:41.638+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:59:41.638+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:59:41.659+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T11:59:41.680+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:59:41.680+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T11:59:41.700+0000] {logging_mixin.py:137} INFO - [2023-03-12T11:59:41.700+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T11:59:41.721+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T12:00:12.056+0000] {processor.py:153} INFO - Started process (PID=5532) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:00:12.058+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:00:12.058+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:00:12.058+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:00:12.084+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:00:12.104+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:00:12.104+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:00:12.126+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:00:12.126+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:00:12.144+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T12:00:42.498+0000] {processor.py:153} INFO - Started process (PID=5607) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:00:42.500+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:00:42.500+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:00:42.500+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:00:42.521+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:00:42.543+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:00:42.542+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:00:42.560+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:00:42.560+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:00:42.579+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.083 seconds
+[2023-03-12T12:01:12.599+0000] {processor.py:153} INFO - Started process (PID=5698) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:01:12.602+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:01:12.603+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:01:12.603+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:01:12.626+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:01:12.647+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:01:12.647+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:01:12.665+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:01:12.665+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:01:12.684+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T12:01:43.085+0000] {processor.py:153} INFO - Started process (PID=5773) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:01:43.088+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:01:43.088+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:01:43.088+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:01:43.112+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:01:43.134+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:01:43.133+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:01:43.154+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:01:43.154+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:01:43.175+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.093 seconds
+[2023-03-12T12:02:13.402+0000] {processor.py:153} INFO - Started process (PID=5864) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:02:13.404+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:02:13.405+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:02:13.405+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:02:13.427+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:02:13.449+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:02:13.449+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:02:13.468+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:02:13.468+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:02:13.489+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T12:02:43.794+0000] {processor.py:153} INFO - Started process (PID=5939) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:02:43.797+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:02:43.798+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:02:43.797+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:02:43.819+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:02:43.843+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:02:43.843+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:02:43.861+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:02:43.861+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:02:43.881+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T12:03:14.077+0000] {processor.py:153} INFO - Started process (PID=6031) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:03:14.080+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:03:14.080+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:03:14.080+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:03:14.102+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:03:14.177+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:03:14.177+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:03:14.197+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:03:14.197+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:03:14.217+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.142 seconds
+[2023-03-12T12:03:44.761+0000] {processor.py:153} INFO - Started process (PID=6106) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:03:44.762+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:03:44.763+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:03:44.763+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:03:44.785+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:03:44.807+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:03:44.807+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:03:44.825+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:03:44.825+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:03:44.845+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T12:04:14.962+0000] {processor.py:153} INFO - Started process (PID=6197) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:04:14.964+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:04:14.964+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:04:14.964+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:04:14.987+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:04:15.008+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:04:15.008+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:04:15.026+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:04:15.026+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:04:15.045+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.085 seconds
+[2023-03-12T12:04:45.311+0000] {processor.py:153} INFO - Started process (PID=6281) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:04:45.313+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:04:45.313+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:04:45.313+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:04:45.337+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:04:45.360+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:04:45.360+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:04:45.381+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:04:45.381+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:04:45.398+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T12:12:31.029+0000] {processor.py:153} INFO - Started process (PID=6372) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:12:31.042+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:12:31.054+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:12:31.054+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:12:31.280+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:12:31.347+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:12:31.346+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:12:31.414+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:12:31.414+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:12:31.471+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.473 seconds
+[2023-03-12T12:12:49.843+0000] {processor.py:153} INFO - Started process (PID=44) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:12:49.855+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:12:49.855+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:12:49.855+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:12:49.912+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:12:49.970+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:12:49.970+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:12:50.010+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:12:50.010+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:12:50.038+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.199 seconds
+[2023-03-12T12:13:20.285+0000] {processor.py:153} INFO - Started process (PID=128) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:13:20.286+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:13:20.287+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:13:20.287+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:13:20.309+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:13:20.331+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:13:20.331+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:13:20.353+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:13:20.353+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:13:20.370+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.087 seconds
+[2023-03-12T12:13:50.676+0000] {processor.py:153} INFO - Started process (PID=203) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:13:50.677+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:13:50.678+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:13:50.678+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:13:50.701+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:13:50.722+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:13:50.722+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:13:50.741+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:13:50.741+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:13:50.757+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.083 seconds
+[2023-03-12T12:14:21.346+0000] {processor.py:153} INFO - Started process (PID=294) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:14:21.349+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:14:21.349+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:14:21.349+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:14:21.371+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:14:21.392+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:14:21.392+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:14:21.410+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:14:21.410+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:14:21.428+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T12:14:51.702+0000] {processor.py:153} INFO - Started process (PID=369) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:14:51.704+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:14:51.705+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:14:51.705+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:14:51.727+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:14:51.778+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:14:51.778+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:14:51.801+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:14:51.801+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:14:51.820+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.121 seconds
+[2023-03-12T12:15:21.969+0000] {processor.py:153} INFO - Started process (PID=461) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:15:21.974+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:15:21.974+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:15:21.974+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:15:22.003+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:15:22.025+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:15:22.024+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:15:22.044+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:15:22.044+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:15:22.058+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.094 seconds
+[2023-03-12T12:15:52.142+0000] {processor.py:153} INFO - Started process (PID=545) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:15:52.145+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:15:52.145+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:15:52.145+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:15:52.172+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:15:52.195+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:15:52.195+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:15:52.221+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:15:52.221+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:15:52.237+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.098 seconds
+[2023-03-12T12:16:22.528+0000] {processor.py:153} INFO - Started process (PID=627) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:16:22.528+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:16:22.529+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:16:22.529+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:16:22.551+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:16:22.571+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:16:22.571+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:16:22.590+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:16:22.590+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:16:22.606+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.081 seconds
+[2023-03-12T12:16:52.668+0000] {processor.py:153} INFO - Started process (PID=718) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:16:52.671+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:16:52.672+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:16:52.672+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:16:52.704+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:16:52.729+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:16:52.728+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:16:52.754+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:16:52.754+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:16:52.770+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.105 seconds
+[2023-03-12T12:17:22.939+0000] {processor.py:153} INFO - Started process (PID=793) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:17:22.942+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:17:22.943+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:17:22.942+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:17:22.963+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:17:22.984+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:17:22.984+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:17:23.002+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:17:23.002+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:17:23.018+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.081 seconds
+[2023-03-12T12:17:53.105+0000] {processor.py:153} INFO - Started process (PID=884) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:17:53.113+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:17:53.114+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:17:53.113+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:17:53.159+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:17:53.189+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:17:53.189+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:17:53.215+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:17:53.215+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:17:53.235+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.136 seconds
+[2023-03-12T12:18:23.562+0000] {processor.py:153} INFO - Started process (PID=959) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:18:23.565+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:18:23.565+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:18:23.565+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:18:23.587+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:18:23.609+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:18:23.608+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:18:23.628+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:18:23.628+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:18:23.644+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.084 seconds
+[2023-03-12T12:18:53.761+0000] {processor.py:153} INFO - Started process (PID=1051) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:18:53.764+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:18:53.764+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:18:53.764+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:18:53.796+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:18:53.823+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:18:53.823+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:18:53.847+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:18:53.847+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:18:53.865+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.106 seconds
+[2023-03-12T12:19:23.904+0000] {processor.py:153} INFO - Started process (PID=1126) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:19:23.906+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:19:23.906+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:19:23.906+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:19:23.929+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:19:23.952+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:19:23.951+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:19:23.969+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:19:23.969+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:19:23.985+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.084 seconds
+[2023-03-12T12:19:54.332+0000] {processor.py:153} INFO - Started process (PID=1217) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:19:54.335+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:19:54.335+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:19:54.335+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:19:54.357+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:19:54.378+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:19:54.377+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:19:54.397+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:19:54.397+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:19:54.413+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.083 seconds
+[2023-03-12T12:20:24.713+0000] {processor.py:153} INFO - Started process (PID=1294) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:20:24.713+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:20:24.714+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:20:24.714+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:20:24.742+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:20:24.764+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:20:24.764+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:20:24.784+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:20:24.784+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:20:24.801+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.091 seconds
+[2023-03-12T12:20:55.158+0000] {processor.py:153} INFO - Started process (PID=1385) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:20:55.159+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:20:55.160+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:20:55.160+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:20:55.185+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:20:55.210+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:20:55.210+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:20:55.236+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:20:55.236+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:20:55.253+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.098 seconds
+[2023-03-12T12:21:25.527+0000] {processor.py:153} INFO - Started process (PID=1461) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:21:25.530+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:21:25.530+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:21:25.530+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:21:25.551+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:21:25.572+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:21:25.572+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:21:25.590+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:21:25.590+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:21:25.607+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.082 seconds
+[2023-03-12T12:21:55.944+0000] {processor.py:153} INFO - Started process (PID=1552) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:21:55.945+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:21:55.945+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:21:55.945+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:21:55.966+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:21:55.987+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:21:55.987+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:21:56.006+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:21:56.006+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:21:56.021+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.079 seconds
+[2023-03-12T12:22:26.401+0000] {processor.py:153} INFO - Started process (PID=1627) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:22:26.403+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T12:22:26.404+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:22:26.404+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:22:26.425+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T12:22:26.446+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:22:26.446+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T12:22:26.464+0000] {logging_mixin.py:137} INFO - [2023-03-12T12:22:26.464+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T12:22:26.480+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.082 seconds
+[2023-03-12T22:26:50.032+0000] {processor.py:153} INFO - Started process (PID=1711) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:26:50.070+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:26:50.101+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:26:50.088+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             [2023-03-12T22:27:35.689+0000] {processor.py:153} INFO - Started process (PID=59) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:27:35.690+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:27:35.691+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:27:35.691+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:27:35.791+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:27:35.846+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:27:35.846+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:27:35.889+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:27:35.889+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:27:35.946+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.261 seconds
+[2023-03-12T22:28:06.176+0000] {processor.py:153} INFO - Started process (PID=134) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:28:06.182+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:28:06.183+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:28:06.183+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:28:06.292+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:28:06.345+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:28:06.345+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:28:06.402+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:28:06.400+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:28:06.443+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.272 seconds
+[2023-03-12T22:28:37.014+0000] {processor.py:153} INFO - Started process (PID=210) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:28:37.016+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:28:37.016+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:28:37.016+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:28:37.058+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:28:37.087+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:28:37.087+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:28:37.117+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:28:37.117+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:28:37.140+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.129 seconds
+[2023-03-12T22:29:07.871+0000] {processor.py:153} INFO - Started process (PID=302) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:29:07.872+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:29:07.873+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:29:07.873+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:29:07.902+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:29:07.924+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:29:07.924+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:29:07.943+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:29:07.943+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:29:07.964+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.096 seconds
+[2023-03-12T22:29:38.383+0000] {processor.py:153} INFO - Started process (PID=377) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:29:38.384+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:29:38.384+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:29:38.384+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:29:38.409+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:29:38.435+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:29:38.435+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:29:38.463+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:29:38.462+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:29:38.483+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.103 seconds
+[2023-03-12T22:30:09.153+0000] {processor.py:153} INFO - Started process (PID=468) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:30:09.156+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:30:09.156+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:30:09.156+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:30:09.188+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:30:09.210+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:30:09.210+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:30:09.233+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:30:09.232+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:30:09.252+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.101 seconds
+[2023-03-12T22:30:39.749+0000] {processor.py:153} INFO - Started process (PID=543) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:30:39.751+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:30:39.751+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:30:39.751+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:30:39.783+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:30:39.808+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:30:39.808+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:30:39.831+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:30:39.831+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:30:39.850+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.104 seconds
+[2023-03-12T22:31:10.273+0000] {processor.py:153} INFO - Started process (PID=634) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:31:10.276+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:31:10.276+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:31:10.276+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:31:10.299+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:31:10.320+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:31:10.320+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:31:10.340+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:31:10.340+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:31:10.357+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.087 seconds
+[2023-03-12T22:31:40.799+0000] {processor.py:153} INFO - Started process (PID=709) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:31:40.800+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:31:40.801+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:31:40.801+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:31:40.827+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:31:40.851+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:31:40.851+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:31:40.875+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:31:40.875+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:31:40.894+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.097 seconds
+[2023-03-12T22:32:11.199+0000] {processor.py:153} INFO - Started process (PID=800) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:32:11.200+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:32:11.201+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:32:11.201+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:32:11.227+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:32:11.252+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:32:11.251+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:32:11.276+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:32:11.276+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:32:11.298+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.101 seconds
+[2023-03-12T22:32:41.597+0000] {processor.py:153} INFO - Started process (PID=875) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:32:41.597+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:32:41.598+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:32:41.598+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:32:41.626+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:32:41.648+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:32:41.648+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:32:41.669+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:32:41.669+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:32:41.689+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.095 seconds
+[2023-03-12T22:33:12.205+0000] {processor.py:153} INFO - Started process (PID=966) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:33:12.206+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:33:12.206+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:33:12.206+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:33:12.243+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:33:12.267+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:33:12.266+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:33:12.295+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:33:12.295+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:33:12.314+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.113 seconds
+[2023-03-12T22:33:42.620+0000] {processor.py:153} INFO - Started process (PID=1041) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:33:42.620+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:33:42.621+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:33:42.621+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:33:42.649+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:33:42.675+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:33:42.675+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:33:42.696+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:33:42.696+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:33:42.717+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.100 seconds
+[2023-03-12T22:34:13.040+0000] {processor.py:153} INFO - Started process (PID=1132) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:34:13.041+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:34:13.041+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:34:13.041+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:34:13.066+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:34:13.088+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:34:13.087+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:34:13.107+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:34:13.107+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:34:13.125+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.087 seconds
+[2023-03-12T22:34:43.376+0000] {processor.py:153} INFO - Started process (PID=1207) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:34:43.378+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:34:43.380+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:34:43.379+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:34:43.430+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:34:43.461+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:34:43.461+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:34:43.506+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:34:43.505+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:34:43.548+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.175 seconds
+[2023-03-12T22:35:13.805+0000] {processor.py:153} INFO - Started process (PID=1298) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:35:13.808+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:35:13.809+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:35:13.809+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:35:13.834+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:35:13.857+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:35:13.857+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:35:13.884+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:35:13.883+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:35:13.904+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.101 seconds
+[2023-03-12T22:35:44.351+0000] {processor.py:153} INFO - Started process (PID=1374) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:35:44.354+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:35:44.355+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:35:44.355+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:35:44.377+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:35:44.399+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:35:44.399+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:35:44.418+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:35:44.418+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:35:44.436+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T22:36:14.894+0000] {processor.py:153} INFO - Started process (PID=1465) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:36:14.897+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:36:14.898+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:36:14.898+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:36:14.924+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:36:14.948+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:36:14.948+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:36:14.971+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:36:14.971+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:36:14.991+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.100 seconds
+[2023-03-12T22:36:45.309+0000] {processor.py:153} INFO - Started process (PID=1540) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:36:45.311+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:36:45.312+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:36:45.312+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:36:45.335+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:36:45.356+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:36:45.356+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:36:45.376+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:36:45.376+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:36:45.394+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T22:37:15.664+0000] {processor.py:153} INFO - Started process (PID=1631) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:37:15.667+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:37:15.668+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:37:15.668+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:37:15.693+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:37:15.719+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:37:15.718+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:37:15.740+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:37:15.740+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:37:15.762+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.100 seconds
+[2023-03-12T22:37:46.147+0000] {processor.py:153} INFO - Started process (PID=1706) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:37:46.149+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:37:46.150+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:37:46.150+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:37:46.175+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:37:46.196+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:37:46.195+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:37:46.214+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:37:46.214+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:37:46.231+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.086 seconds
+[2023-03-12T22:38:16.649+0000] {processor.py:153} INFO - Started process (PID=1797) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:38:16.652+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:38:16.653+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:38:16.652+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:38:16.682+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:38:16.706+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:38:16.706+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:38:16.728+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:38:16.728+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:38:16.749+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.104 seconds
+[2023-03-12T22:38:47.107+0000] {processor.py:153} INFO - Started process (PID=1879) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:38:47.110+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:38:47.110+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:38:47.110+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:38:47.146+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:38:47.218+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:38:47.218+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:38:47.242+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:38:47.242+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:38:47.262+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.159 seconds
+[2023-03-12T22:39:18.200+0000] {processor.py:153} INFO - Started process (PID=1963) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:39:18.202+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:39:18.203+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:39:18.203+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:39:18.229+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:39:18.255+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:39:18.254+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:39:18.278+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:39:18.278+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:39:18.297+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.100 seconds
+[2023-03-12T22:39:48.842+0000] {processor.py:153} INFO - Started process (PID=2053) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:39:48.844+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:39:48.845+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:39:48.845+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:39:48.870+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:39:48.894+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:39:48.894+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:39:48.921+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:39:48.920+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:39:48.942+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.102 seconds
+[2023-03-12T22:40:19.275+0000] {processor.py:153} INFO - Started process (PID=2129) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:40:19.278+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:40:19.279+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:40:19.279+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:40:19.303+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:40:19.329+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:40:19.329+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:40:19.351+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:40:19.351+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:40:19.370+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.098 seconds
+[2023-03-12T22:40:49.701+0000] {processor.py:153} INFO - Started process (PID=2220) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:40:49.702+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:40:49.702+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:40:49.702+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:40:49.728+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:40:49.753+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:40:49.753+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:40:49.780+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:40:49.779+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:40:49.803+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.105 seconds
+[2023-03-12T22:41:20.126+0000] {processor.py:153} INFO - Started process (PID=2295) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:41:20.130+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:41:20.130+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:41:20.130+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:41:20.153+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:41:20.175+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:41:20.175+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:41:20.194+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:41:20.194+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:41:20.214+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T22:41:50.690+0000] {processor.py:153} INFO - Started process (PID=2379) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:41:50.692+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:41:50.693+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:41:50.693+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:41:50.734+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:41:50.765+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:41:50.765+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:41:50.802+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:41:50.802+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-01T00:00:00+00:00, run_after=2023-03-02T00:00:00+00:00
+[2023-03-12T22:41:50.827+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.141 seconds
+[2023-03-12T22:42:21.454+0000] {processor.py:153} INFO - Started process (PID=2517) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:42:21.461+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:42:21.462+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:42:21.462+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:42:21.510+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:42:21.552+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:42:21.552+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:42:21.598+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:42:21.598+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:42:21.655+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.206 seconds
+[2023-03-12T22:42:51.933+0000] {processor.py:153} INFO - Started process (PID=2738) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:42:51.942+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:42:51.946+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:42:51.946+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:42:52.061+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:42:52.167+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:42:52.167+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:42:52.259+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:42:52.258+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:42:52.369+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.441 seconds
+[2023-03-12T22:43:23.121+0000] {processor.py:153} INFO - Started process (PID=2903) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:43:23.124+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:43:23.125+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:43:23.125+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:43:23.150+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:43:23.171+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:43:23.171+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:43:23.193+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:43:23.193+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:43:23.213+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.095 seconds
+[2023-03-12T22:43:54.048+0000] {processor.py:153} INFO - Started process (PID=2996) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:43:54.050+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:43:54.051+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:43:54.051+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:43:54.075+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:43:54.099+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:43:54.099+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:43:54.122+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:43:54.122+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:43:54.140+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.096 seconds
+[2023-03-12T22:44:24.413+0000] {processor.py:153} INFO - Started process (PID=3072) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:44:24.415+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:44:24.415+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:44:24.415+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:44:24.440+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:44:24.481+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:44:24.481+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:44:24.506+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:44:24.506+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:44:24.524+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.114 seconds
+[2023-03-12T22:44:54.895+0000] {processor.py:153} INFO - Started process (PID=3164) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:44:54.897+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:44:54.897+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:44:54.897+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:44:54.920+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:44:54.942+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:44:54.942+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:44:54.961+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:44:54.961+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:44:54.980+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T22:45:25.233+0000] {processor.py:153} INFO - Started process (PID=3249) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:45:25.234+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:45:25.235+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:45:25.235+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:45:25.263+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:45:25.291+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:45:25.291+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:45:25.325+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:45:25.324+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:45:25.345+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.115 seconds
+[2023-03-12T22:45:55.574+0000] {processor.py:153} INFO - Started process (PID=3332) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:45:55.575+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:45:55.575+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:45:55.575+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:45:55.599+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:45:55.620+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:45:55.620+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:45:55.642+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:45:55.641+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:45:55.660+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T22:46:26.018+0000] {processor.py:153} INFO - Started process (PID=3424) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:46:26.019+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:46:26.020+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:46:26.020+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:46:26.048+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:46:26.075+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:46:26.075+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:46:26.096+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:46:26.096+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:46:26.114+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.099 seconds
+[2023-03-12T22:46:56.311+0000] {processor.py:153} INFO - Started process (PID=3500) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:46:56.311+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:46:56.312+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:46:56.312+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:46:56.335+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:46:56.356+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:46:56.356+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:46:56.376+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:46:56.376+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:46:56.395+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.086 seconds
+[2023-03-12T22:47:26.942+0000] {processor.py:153} INFO - Started process (PID=3592) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:47:26.945+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:47:26.946+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:47:26.946+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:47:26.968+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:47:26.989+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:47:26.989+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:47:27.009+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:47:27.009+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:47:27.026+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.087 seconds
+[2023-03-12T22:47:57.377+0000] {processor.py:153} INFO - Started process (PID=3668) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:47:57.380+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:47:57.380+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:47:57.380+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:47:57.402+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:47:57.425+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:47:57.425+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:47:57.445+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:47:57.444+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:47:57.462+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.087 seconds
+[2023-03-12T22:48:27.741+0000] {processor.py:153} INFO - Started process (PID=3759) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:48:27.744+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:48:27.744+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:48:27.744+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:48:27.767+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:48:27.789+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:48:27.789+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:48:27.808+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:48:27.808+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:48:27.828+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T22:48:58.145+0000] {processor.py:153} INFO - Started process (PID=3844) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:48:58.146+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:48:58.146+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:48:58.146+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:48:58.171+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:48:58.194+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:48:58.193+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:48:58.214+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:48:58.214+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:48:58.232+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T22:49:28.514+0000] {processor.py:153} INFO - Started process (PID=3927) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:49:28.517+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:49:28.517+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:49:28.517+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:49:28.542+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:49:28.564+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:49:28.564+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:49:28.584+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:49:28.584+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:49:28.602+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.090 seconds
+[2023-03-12T22:49:58.926+0000] {processor.py:153} INFO - Started process (PID=4019) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:49:58.928+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:49:58.929+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:49:58.929+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:49:58.951+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:49:58.974+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:49:58.974+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:49:58.994+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:49:58.994+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:49:59.011+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T22:50:29.375+0000] {processor.py:153} INFO - Started process (PID=4095) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:50:29.378+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:50:29.378+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:50:29.378+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:50:29.404+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:50:29.427+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:50:29.427+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:50:29.451+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:50:29.451+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:50:29.472+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.099 seconds
+[2023-03-12T22:50:59.848+0000] {processor.py:153} INFO - Started process (PID=4187) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:50:59.851+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:50:59.852+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:50:59.851+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:50:59.875+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:50:59.896+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:50:59.896+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:50:59.915+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:50:59.915+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:50:59.934+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.088 seconds
+[2023-03-12T22:51:30.284+0000] {processor.py:153} INFO - Started process (PID=4272) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:51:30.287+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:51:30.288+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:51:30.287+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:51:30.312+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:51:30.335+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:51:30.335+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:51:30.357+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:51:30.357+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:51:30.377+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.096 seconds
+[2023-03-12T22:52:00.552+0000] {processor.py:153} INFO - Started process (PID=4355) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:52:00.555+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:52:00.555+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:52:00.555+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:52:00.578+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:52:00.599+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:52:00.599+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:52:00.618+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:52:00.618+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:52:00.636+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.086 seconds
+[2023-03-12T22:52:31.064+0000] {processor.py:153} INFO - Started process (PID=4448) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:52:31.067+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:52:31.068+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:52:31.068+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:52:31.090+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:52:31.112+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:52:31.112+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:52:31.132+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:52:31.132+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:52:31.152+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.091 seconds
+[2023-03-12T22:53:01.429+0000] {processor.py:153} INFO - Started process (PID=4524) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:53:01.432+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:53:01.432+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:53:01.432+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:53:01.457+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:53:01.479+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:53:01.479+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:53:01.501+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:53:01.501+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:53:01.519+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.093 seconds
+[2023-03-12T22:53:31.890+0000] {processor.py:153} INFO - Started process (PID=4617) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:53:31.892+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:53:31.892+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:53:31.892+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:53:31.931+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:53:31.966+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:53:31.966+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:53:31.994+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:53:31.994+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:53:32.013+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.128 seconds
+[2023-03-12T22:54:02.385+0000] {processor.py:153} INFO - Started process (PID=4693) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:54:02.386+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:54:02.386+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:54:02.386+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:54:02.412+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:54:02.439+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:54:02.439+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:54:02.467+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:54:02.467+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:54:02.487+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.105 seconds
+[2023-03-12T22:54:32.873+0000] {processor.py:153} INFO - Started process (PID=4785) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:54:32.874+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:54:32.875+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:54:32.875+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:54:32.906+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:54:32.932+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:54:32.932+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:54:32.956+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:54:32.956+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:54:32.978+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.108 seconds
+[2023-03-12T22:55:03.628+0000] {processor.py:153} INFO - Started process (PID=4861) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:55:03.630+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:55:03.630+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:55:03.630+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:55:03.657+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:55:03.682+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:55:03.682+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:55:03.708+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:55:03.708+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:55:03.733+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.107 seconds
+[2023-03-12T22:55:34.307+0000] {processor.py:153} INFO - Started process (PID=4953) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:55:34.309+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:55:34.309+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:55:34.309+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:55:34.337+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:55:34.361+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:55:34.361+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:55:34.388+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:55:34.388+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:55:34.408+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.103 seconds
+[2023-03-12T22:56:04.936+0000] {processor.py:153} INFO - Started process (PID=5029) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:56:04.938+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:56:04.938+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:56:04.938+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:56:04.970+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:56:05.001+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:56:05.000+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:56:05.028+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:56:05.028+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:56:05.049+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.116 seconds
+[2023-03-12T22:56:35.763+0000] {processor.py:153} INFO - Started process (PID=5121) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:56:35.765+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:56:35.766+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:56:35.765+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:56:35.801+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:56:35.826+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:56:35.826+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:56:35.853+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:56:35.853+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:56:35.882+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.122 seconds
+[2023-03-12T22:57:06.553+0000] {processor.py:153} INFO - Started process (PID=5197) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:57:06.555+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:57:06.556+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:57:06.556+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:57:06.589+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:57:06.676+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:57:06.676+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:57:06.701+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:57:06.701+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:57:06.724+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.174 seconds
+[2023-03-12T22:57:37.325+0000] {processor.py:153} INFO - Started process (PID=5290) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:57:37.327+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:57:37.327+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:57:37.327+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:57:37.352+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:57:37.377+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:57:37.377+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:57:37.398+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:57:37.398+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:57:37.416+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.095 seconds
+[2023-03-12T22:58:08.000+0000] {processor.py:153} INFO - Started process (PID=5376) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:58:08.003+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:58:08.004+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:58:08.004+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:58:08.030+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:58:08.054+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:58:08.054+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:58:08.079+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:58:08.079+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:58:08.100+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.102 seconds
+[2023-03-12T22:58:38.577+0000] {processor.py:153} INFO - Started process (PID=5459) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:58:38.580+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:58:38.581+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:58:38.580+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:58:38.606+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:58:38.629+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:58:38.629+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:58:38.651+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:58:38.651+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:58:38.671+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.096 seconds
+[2023-03-12T22:59:09.149+0000] {processor.py:153} INFO - Started process (PID=5552) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:59:09.150+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:59:09.150+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:59:09.150+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:59:09.175+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:59:09.200+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:59:09.199+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:59:09.235+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:59:09.234+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:59:09.256+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.109 seconds
+[2023-03-12T22:59:39.693+0000] {processor.py:153} INFO - Started process (PID=5628) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:59:39.696+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T22:59:39.696+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:59:39.696+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:59:39.720+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T22:59:39.741+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:59:39.741+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T22:59:39.761+0000] {logging_mixin.py:137} INFO - [2023-03-12T22:59:39.760+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T22:59:39.779+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.089 seconds
+[2023-03-12T23:00:10.247+0000] {processor.py:153} INFO - Started process (PID=5720) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:00:10.250+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T23:00:10.250+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:00:10.250+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:00:10.272+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:00:10.294+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:00:10.294+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T23:00:10.314+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:00:10.314+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T23:00:10.331+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.087 seconds
+[2023-03-12T23:00:40.628+0000] {processor.py:153} INFO - Started process (PID=5796) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:00:40.631+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T23:00:40.632+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:00:40.632+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:00:40.663+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:00:40.687+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:00:40.687+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T23:00:40.709+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:00:40.709+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T23:00:40.728+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.102 seconds
+[2023-03-12T23:01:10.985+0000] {processor.py:153} INFO - Started process (PID=5888) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:01:10.987+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T23:01:10.988+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:01:10.988+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:01:11.011+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:01:11.032+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:01:11.032+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T23:01:11.051+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:01:11.050+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T23:01:11.069+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.086 seconds
+[2023-03-12T23:01:41.546+0000] {processor.py:153} INFO - Started process (PID=5973) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:01:41.546+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T23:01:41.547+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:01:41.547+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:01:41.571+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:01:41.595+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:01:41.595+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T23:01:41.616+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:01:41.616+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T23:01:41.636+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.093 seconds
+[2023-03-12T23:02:11.933+0000] {processor.py:153} INFO - Started process (PID=6056) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:02:11.935+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T23:02:11.935+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:02:11.935+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:02:11.957+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:02:11.978+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:02:11.978+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T23:02:11.997+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:02:11.997+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T23:02:12.015+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.085 seconds
+[2023-03-12T23:02:42.364+0000] {processor.py:153} INFO - Started process (PID=6148) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:02:42.365+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T23:02:42.365+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:02:42.365+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:02:42.387+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:02:42.408+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:02:42.408+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T23:02:42.427+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:02:42.427+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T23:02:42.444+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.082 seconds
+[2023-03-12T23:03:12.864+0000] {processor.py:153} INFO - Started process (PID=6224) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:03:12.875+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T23:03:12.875+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:03:12.875+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:03:12.912+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:03:12.940+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:03:12.940+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T23:03:12.967+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:03:12.967+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T23:03:12.986+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.125 seconds
+[2023-03-12T23:03:43.282+0000] {processor.py:153} INFO - Started process (PID=6316) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:03:43.285+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T23:03:43.285+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:03:43.285+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:03:43.307+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:03:43.328+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:03:43.328+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T23:03:43.350+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:03:43.349+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T23:03:43.373+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.093 seconds
+[2023-03-12T23:04:13.639+0000] {processor.py:153} INFO - Started process (PID=6401) to work on /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:04:13.640+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/examples/validacao_pu.py for tasks to queue
+[2023-03-12T23:04:13.640+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:04:13.640+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:04:13.664+0000] {processor.py:753} INFO - DAG(s) dict_keys(['validacao_pu']) retrieved from /opt/airflow/dags/examples/validacao_pu.py
+[2023-03-12T23:04:13.689+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:04:13.689+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-12T23:04:13.710+0000] {logging_mixin.py:137} INFO - [2023-03-12T23:04:13.710+0000] {dag.py:3441} INFO - Setting next_dagrun for validacao_pu to 2023-03-12T00:00:00+00:00, run_after=2023-03-13T00:00:00+00:00
+[2023-03-12T23:04:13.728+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/examples/validacao_pu.py took 0.092 seconds
